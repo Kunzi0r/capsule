@@ -48,7 +48,7 @@ Kwadracik przełączasz kliknięciem albo spacją (działa też na kilku podświ
 | **Laboratorium** | Przycisk *Zapytaj Defendera* i analiza pliku: *W skrócie*, *Pochodzenie*, *Zachowanie*, *Struktura* (sekcje, importy), *Ciągi znaków*, *IOC*, *Hex* |
 | **Raporty** | Zapisane raporty HTML do otwarcia w przeglądarce |
 
-## Strażnik (nowość w 0.2)
+## Strażnik (nowość w 0.4)
 
 Strażnik co ok. 2 sekundy porównuje listę plików w obserwowanych folderach (domyślnie Pobrane, Pulpit, Temp i Autostart, razem z podfolderami do 2 poziomów).
 - Plik jest analizowany dopiero, gdy **przestanie się zmieniać**, więc pobieranie w przeglądarce nie jest ruszane w trakcie (`.crdownload`, `.part`, `.tmp` są pomijane).
