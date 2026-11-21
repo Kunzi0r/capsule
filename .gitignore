@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# dane użytkownika (ustawienia, klucze API, kwarantanna) – nigdy do repozytorium
+capsule_dane/
+*.log
